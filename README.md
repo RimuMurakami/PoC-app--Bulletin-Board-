@@ -10,7 +10,7 @@ const PoC = {
   Nextjs: {
     "Server Actions",
     "App Router",
-  }
-  Supabase;
+  },
+  Supabase,
 };
 ```
